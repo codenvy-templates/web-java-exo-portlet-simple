@@ -1,1 +1,1 @@
-{"type":"maven","attributes":{},"runners":{"default":"system:/java-webapp-exoplatform/default","configs":{}},"builders":{"default":"maven"}}
+{"type":"maven","attributes":{},"runners":{"default":"system:/java/exoplatform","configs":{}},"builders":{"default":"maven"}}
