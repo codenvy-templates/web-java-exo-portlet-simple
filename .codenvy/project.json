@@ -1,1 +1,1 @@
-{"type":"maven","attributes":{},"runners":{"default":"system:/java/exoplatform","configs":{}},"builders":{"default":"maven"}}
+{"type":"maven","attributes":{},"runners":{"default":"system:/java/exoplatform","configs":{"system:/java/exoplatform":{"options":{},"ram":1024,"variables":{}}}},"builders":{"default":"maven"}}
